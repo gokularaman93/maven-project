@@ -1,3 +1,4 @@
-Hello, World! this is gokul making a first sample commit
+this time will do
 
-trying to merge gokul1fromgokul to gokul
+Hello, World! this is gokul making a first sample commit
+this tie rying to merge second time from gokul1fromgokul to gokul
